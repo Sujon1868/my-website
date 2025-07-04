@@ -1,4 +1,16 @@
-.Sujon{
-   image-orientation: from-image;
+#sujon{
+    text-align: center;
+    width: 100px;
+   font-style: italic ;
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   font-weight: 600px;
+   t
 }
+.sss{
+    text-decoration: underline;
+  -webkit-text-decoration-color: orange; 
+  text-decoration-color: orange
+}
+
+
    
